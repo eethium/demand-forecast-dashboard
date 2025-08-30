@@ -1,0 +1,5 @@
+{
+  "name": "Demand Forecast Dashboard",
+  "description": "An interactive dashboard for visualizing historical sales data, sales forecasts, and key forecast reports. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
